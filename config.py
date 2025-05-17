@@ -1,2 +1,18 @@
 API_URL = "https://api.intra.42.fr"
 CAMPUS_TOKYO = 26
+        # "id": 1320,
+        # "name": "Exam Rank 02",
+        # "slug": "exam-rank-02",
+        # "id": 1321,
+        # "name": "Exam Rank 03",
+        # "slug": "exam-rank-03",
+        # "difficulty": 0,
+        # "id": 1322,
+        # "name": "Exam Rank 04",
+        # "slug": "exam-rank-04",
+        # "id": 1323,
+        # "name": "Exam Rank 05",
+        # "slug": "exam-rank-05",
+        # "id": 1324,
+        # "name": "Exam Rank 06",
+        # "slug": "exam-rank-06",
