@@ -17,4 +17,4 @@ def get_token():
     else:
         print(f"get token error : {response.status_code}")
         print(response.text)
-        return None
+        sys.exit(1)
